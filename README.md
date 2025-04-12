@@ -8,5 +8,5 @@
 ## Group Members
 
 - **Maulik Kansara - 202201442** 
-- **Pritish Deasi - 202201335** 
+- **Pritish Desai - 202201335** 
 - **Harsh Lad - 202201493** 
