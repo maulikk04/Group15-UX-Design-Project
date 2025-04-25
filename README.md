@@ -4,8 +4,8 @@
 ## Figma Design
   
 - [Project Figma Link (With Prototyping)](https://www.figma.com/proto/GJN2cVe3wPH7NhZEH17pkT/App?node-id=4-2&t=brK9AMAKuJ2E7IhQ-1)
-- [Project Figma Link (With Medium Fidelity Wireframe)](https://www.figma.com/design/GJN2cVe3wPH7NhZEH17pkT/Medium-Fidelity?node-id=0-1&p=f&t=IWfvYNNhui0EPKXw-0)
-- [Project Figma Link (With High Fidelity Wireframe)](https://www.figma.com/design/qVe7v79aYpax2rbXfjGrct/High-Fidelity?node-id=0-1&p=f&t=BkyugZEZKUsNff3X-0)
+- [Project Figma Link (With High Fidelity Wireframe)](https://www.figma.com/design/GJN2cVe3wPH7NhZEH17pkT/Medium-Fidelity?node-id=0-1&p=f&t=IWfvYNNhui0EPKXw-0)
+- [Project Figma Link (With Medium Fidelity Wireframe)](https://www.figma.com/design/qVe7v79aYpax2rbXfjGrct/High-Fidelity?node-id=0-1&p=f&t=BkyugZEZKUsNff3X-0)
 
   
 # 🚀 Xcelerate  
